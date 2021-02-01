@@ -38,4 +38,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+<h4 align="center">
+    👨🏻‍🚀 Feito por Emanuel Jovito
+</h4>
